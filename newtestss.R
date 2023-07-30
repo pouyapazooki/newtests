@@ -1,1 +1,1 @@
-> print("Hellow Github!")
+> print("Hello world!")
